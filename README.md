@@ -25,8 +25,8 @@ I contribute to open-source projects and enjoy mentoring new contributors. I pri
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_ayush79_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ayush.netconnect@gmail.com)
 
-</div>
-
 ---
 
 Thanks for stopping by — feel free to explore my repos and reach out.
+
+</div>

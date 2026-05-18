@@ -4,6 +4,8 @@
 
 > Crafting clean, reliable software and turning ideas into delightful user experiences.
 
+</div>
+
 ---
 
 ## Open Source Contributions
@@ -14,7 +16,7 @@ I contribute to open-source projects and enjoy mentoring new contributors. I pri
 
 ---
 
-## connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -22,6 +24,8 @@ I contribute to open-source projects and enjoy mentoring new contributors. I pri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/techvian)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_ayush79_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ayush.netconnect@gmail.com)
+
+</div>
 
 ---
 

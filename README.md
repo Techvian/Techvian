@@ -10,8 +10,6 @@
 
 <img align="right" width="350" alt="A cool, confident cartoon octocat character wearing a wide-brimmed fedora hat with a feather, dark sunglasses, and a red and black striped jacket, holding a GitHub-branded laptop in one hand while standing on a bright blue circular platform. The character has a cheerful, playful expression and exudes a fun, tech-savvy vibe." src="src/images/octocat-1779527717737 copy.png"></img>
 
----
-
 ## Open Source Contributions
 I contribute to open-source projects and enjoy mentoring new contributors. I prioritize readable code, clear issues, and helpful PR reviews.
 

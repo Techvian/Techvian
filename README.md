@@ -7,16 +7,11 @@
 </div>
 
 ---
+## What I'm building
 
-<p> alt="A cool, confident cartoon octocat character wearing a wide-brimmed fedora hat with a feather, dark sunglasses, and a red and black striped jacket, holding a GitHub-branded laptop in one hand while standing on a bright blue circular platform. The character has a cheerful, playful expression and exudes a fun, tech-savvy vibe."</p>
-
-## Open Source Contributions
-I contribute to open-source projects and enjoy mentoring new contributors. I prioritize readable code, clear issues, and helpful PR reviews.
-
-- Preferred contribution areas: documentation, bug fixes, performance improvements, and CI workflows.
-- If you want to collaborate, open an issue or ping me on one of my socials below.
-
----
+- **[techvian.in](https://techvian.in)** — personal portfolio site (in progress)
+- **[web-calculator](https://github.com/Techvian/web-calculator)** — a calculator app
+- **[Teacher-Dashboard](https://github.com/Techvian/Teacher-Dashboard)** — a dashboard project
 
 ## Connect with Me
 
